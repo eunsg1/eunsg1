@@ -13,7 +13,7 @@
 ---
 
 ## 📫 Contact Me  
-- **이메일**: [eunsg1@example.com](mailto:eunsg1@example.com)  
+- **이메일**: [konoha2088@gmail.com](mailto:konoha2088@gmail.com)  
 - **깃허브**: [eunsg1's Repositories](https://github.com/eunsg1)
 
 ---
