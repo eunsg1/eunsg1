@@ -20,4 +20,20 @@
 
 **잘 부탁드려요! 🙏**  
 
-![새 바다 산](./새%20바다%20산.jpg)
+<p>
+  <button onclick="toggleImage()">아주 멋있는 사진 보기</button>
+</p>
+<div id="image-container" style="display: none;">
+  <img src="./새%20바다%20산.jpg" alt="새 바다 산" width="500">
+</div>
+
+<script>
+  function toggleImage() {
+    const container = document.getElementById('image-container');
+    if (container.style.display === 'none') {
+      container.style.display = 'block';
+    } else {
+      container.style.display = 'none';
+    }
+  }
+</script>
